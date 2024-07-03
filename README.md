@@ -1,6 +1,6 @@
 # Digital Filter Designer
 
-Digital Filter Designer web application provides users with full functionality to design filters using drag and drop for zeros/poles, and filter phase correction.
+### Digital Filter Designer web application provides users with full functionality to design filters using drag and drop for zeros/poles, and filter phase correction.
 
 ## Features
 
